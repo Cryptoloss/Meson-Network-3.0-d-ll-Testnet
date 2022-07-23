@@ -8,6 +8,8 @@ Meson toplam arzı 100M ve  %1'i testnet katılımcılarına dağıtılacak. Her
 
 Meson Node Puan: 7/10
 
+Meson Node Kurulum Videosu:https://youtu.be/yXwXbUXo4oo
+
 **Minimum Sistem Gereksinimleri**
 
 İşlemci:2
